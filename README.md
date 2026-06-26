@@ -1,7 +1,7 @@
 # Primera Administración de Base de Datos - Biblioteca
 
 ## Descripción
-Base de datos relacional para la gestión de una biblioteca, incluyendo libros, autores, usuarios y préstamos.
+Base de datos relacional para la gestión de la biblioteca BINAES, incluyendo libros, autores, usuarios y préstamos.
 
 ## Tecnologías
 
