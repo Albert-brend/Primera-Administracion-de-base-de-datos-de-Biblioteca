@@ -9,7 +9,6 @@ Base de datos relacional para la gestión de una biblioteca, incluyendo libros, 
 
 ## 📋 Funcionalidades
 
-- Registro de libros y autores
+- Registro de libros, autores y categorías
 - Gestión de usuarios
-- Control de préstamos y devoluciones
-- Consultas de disponibilidad
+- Control de préstamos
